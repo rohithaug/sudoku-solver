@@ -1,7 +1,8 @@
 # SUDOKU GAME
 
 ## Requirements:
-  1. [Pygame](https://pypi.org/project/pygame/)
+  1. [Python](https://www.python.org/downloads/release/python-377/)
+  2. [Pygame](https://pypi.org/project/pygame/)
 
 ## Sudoku GUI ([code](sudoku_gui.py)):
 
