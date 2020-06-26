@@ -234,7 +234,7 @@ def main():
 
     screen = pygame.display.set_mode((600, 640), HWSURFACE|DOUBLEBUF|RESIZABLE)
     screen.fill((255, 255, 255))
-    pygame.display.set_caption("SUDOKU SOLVER \u00A9 ROHITH")
+    pygame.display.set_caption("SUDOKU SOLVER \u00A9 2020 Rohith S P")
 
     board = Sudoku(screen, 600, 600, rows, cols, array)
     board.update_values()
