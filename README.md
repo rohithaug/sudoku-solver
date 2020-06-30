@@ -1,5 +1,9 @@
 # SUDOKU GAME
 
+<p align="center">
+  <img src="sudoku_gui_sample.gif">
+</p>
+
 ## Requirements:
   1. [Python](https://www.python.org/downloads/release/python-377/)
   2. [Pygame](https://pypi.org/project/pygame/)
