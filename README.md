@@ -29,7 +29,7 @@
   
 ## Drawbacks:
 
-  1. When using the GUI to automatically solving the sudoku, i.e. when you hit SPACEBAR do not use the system until it solves the sudoku completely. 
+  1. When using the GUI to automatically solve the sudoku, i.e. when you hit SPACEBAR do not use the system until it solves the sudoku completely. 
 
 ## Thank you
 
