@@ -1,5 +1,7 @@
 # SUDOKU GAME
 
+The project consists of a sudoku generator, solver and a GUI that can be used to solve a sudoku manually or automatically using the concept of backtracking. The difficulty of the game can be varied as well.
+
 <p align="center">
   <img src="sudoku_gui_sample.gif">
 </p>
