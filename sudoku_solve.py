@@ -31,7 +31,7 @@ class sudoku:
         pos = self.find_empty()
         if pos is None:
             return True
-        for i in range(1, rows):
+        for i in range(1, len(self.board)+1):
             if self.correct_pos(i, pos):
                 self.board[pos[0]][pos[1]] = i
                 if self.solver():
@@ -48,6 +48,7 @@ class sudoku:
         else:
             print("Solution does not exists")
 
+#sample sudoku
 array =  [[3, 0, 6, 5, 0, 8, 4, 0, 0],
           [5, 2, 0, 0, 0, 0, 0, 0, 0],
           [0, 8, 7, 0, 0, 0, 0, 3, 1],
